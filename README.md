@@ -11,7 +11,7 @@ Tutoriel complet sur https://www.papsdroid.fr/post/ledstick
  ## prototype sur breadboard
  ![fritzing](git_docs/LedStick_fritzing.jpg) 
 
-**Attention!** le ruban est très fragile: ne pas se tromper avec les voltages (alimentation 5v) et avec le polarités, sinon il est mort direct.
+>**Attention!** le ruban est très fragile: ne pas se tromper avec les voltages (alimentation 5v) et avec le polarités, sinon il est mort direct.
 
 Pour animer le ruban de leds: recopier les 3 fichiers sur le lecteur PYBFLASH qui apparaît lorsque vous branchez la PYBStick26 sur un port USB de votre ordinateur.
 * main.py, 
