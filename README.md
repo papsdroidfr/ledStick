@@ -11,7 +11,7 @@ Tutoriel complet sur https://www.papsdroid.fr/post/ledstick
  ## prototype sur breadboard
  ![fritzing](git_docs/LedStick_fritzing.jpg) 
 
->**Attention!** le ruban est très fragile: ne pas se tromper avec les voltages (alimentation 5v) et avec le polarités, sinon il est mort direct.
+>**Attention!** le ruban est très fragile: ne pas se tromper avec les voltages (alimentation 5v) et avec les polarités, sinon il est mort direct.
 
 Pour animer le ruban de leds: recopier les 3 fichiers sur le lecteur PYBFLASH qui apparaît lorsque vous branchez la PYBStick26 sur un port USB de votre ordinateur.
 * main.py, 
@@ -24,7 +24,7 @@ Pour animer le ruban de leds: recopier les 3 fichiers sur le lecteur PYBFLASH qu
  ![Kicad](git_docs/LedStick_Kicad_shcema.png) 
  ![Kicad](git_docs/kicad_LedStick_3D.png) 
   
- Pour fabriquer la carte d'extension chez n'importe quel favriquant de PCB: utilisez les fichiers GERBER zippés (GERBER_LedStick_v1.1.zip)
+ Pour fabriquer la carte d'extension chez n'importe quel fabriquant de PCB: utilisez les fichiers GERBER zippés (GERBER_LedStick_v1.1.zip)
 
 Guide de montage sur: https://www.papsdroid.fr/post/ledstick
 
