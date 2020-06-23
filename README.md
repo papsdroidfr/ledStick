@@ -14,9 +14,9 @@ Tutoriel complet sur https://www.papsdroid.fr/post/ledstick
 >**Attention!** le ruban est très fragile: ne pas se tromper avec les voltages (alimentation 5v) et avec les polarités, sinon il est mort direct.
 
 Pour animer le ruban de leds: recopier les 3 fichiers sur le lecteur PYBFLASH qui apparaît lorsque vous branchez la PYBStick26 sur un port USB de votre ordinateur.
-* main.py, 
-* rubanLeds.py 
-* ws2812.py: cette bilbiothèque a été conçue par [MCHobby](https://github.com/mchobby/pyboard-driver/tree/master/PYBStick) 
+* main.py : script principal 
+* rubanLeds.py : animation du ruban de leds
+* ws2812.py: bilbiothèque de contrôle de leds RGB Neopixels, conçue par [MCHobby](https://github.com/mchobby/pyboard-driver/tree/master/PYBStick) 
 
  Déconnectez la PYBStick26, puis branchez l'alimentation Jack DC 5v: le ruban de leds s'anime immédiatement.
  
