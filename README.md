@@ -28,3 +28,11 @@ Pour animer le ruban de leds: recopier les 3 fichiers sur le lecteur PYBFLASH qu
 
 Guide de montage sur: https://www.papsdroid.fr/post/ledstick
 
+## Boitier imprimé 3D
+
+![Boitier3D](git_docs/boitier3D_5.png)
+
+Un modèle de boitier 3D est modélisé en 2 parties qui se clipsent l'une sur l'autre. Les fichiers STL sont disponibles dans le dossier **/Boitier3D**
+Il faut disposer la partie haute verticalement sur la partie basse en jouant sur l'élasticité des bords de la pièce pour faire rentrer de force la rainure dans son logement. Utilisez un petit tournevis plat pour aider: quand ça fait "clac!" tout est en place.
+
+![Boitier3D](git_docs/IMG_20201212_141658_web.jpg)
